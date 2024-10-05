@@ -14,7 +14,7 @@ import { println } from "js-logs-formatter";
 
 ### Sample Data
 
-Here we have a sample data to log. Imagine this is coming from your backend.
+Here we have a sample data to log. Imagine this data is coming from your backend.
 
 ```typescript
 const user = {
