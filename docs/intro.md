@@ -14,13 +14,13 @@ Get started by **instaling this package using yarn or npm**.
 yarn add js-logs-formatter
 ```
 
-Or using npm
+**Or using npm**
 
 ```bash
 npm install js-logs-formatter
 ```
 
-Expo (React Native)
+**Expo (React Native)**
 
 ```bash
 npx expo install js-logs-formatter

@@ -5,10 +5,10 @@ import type * as Preset from "@docusaurus/preset-classic";
 const config: Config = {
   title: "JS Logs Formatter",
   tagline: "Readable and customizable server logs for development",
-  favicon: "img/favicon.ico",
+  favicon: "img/js-logs-formatter.webp",
 
   // Set the production url of your site here
-  url: "https://your-docusaurus-site.example.com",
+  url: "https://js-logs-formatter.vercel.app",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
@@ -49,7 +49,7 @@ const config: Config = {
       title: "JS Logs Formatter",
       logo: {
         alt: "My Site Logo",
-        src: "img/logo.svg",
+        src: "img/logo.webp",
       },
       items: [
         {
@@ -109,7 +109,7 @@ const config: Config = {
         //   ],
         // },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} JS Logs Formatter, Inc.`,
+      copyright: `Copyright © ${new Date().getFullYear()} JS Logs Formatter.`,
     },
     prism: {
       theme: prismThemes.github,
